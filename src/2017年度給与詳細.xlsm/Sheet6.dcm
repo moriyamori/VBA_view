@@ -1,0 +1,33 @@
+VERSION 1.0 CLASS
+BEGIN
+  MultiUse = -1  'True
+END
+Attribute VB_Name = "Sheet6"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+'社員追加ボタン押下時の処理
+Private Sub employeeAddButton_Click()
+ClickEmployeeButton.employeeAddButton
+
+End Sub
+
+'社員削除ボタン押下時の処理
+Private Sub employeeDeleteButton_Click()
+ClickEmployeeButton.employeeDeleteButton
+
+End Sub
+
+'バイト追加ボタン押下時の処理
+Private Sub sideworkAddButton_Click()
+ClickSideWorkButton.sideworkAddButton
+
+End Sub
+
+'バイト削除ボタン押下時の処理
+Private Sub sideworkDeleteButton_Click()
+ClickSideWorkButton.deleteAddSideWorkButton
+
+End Sub
+
