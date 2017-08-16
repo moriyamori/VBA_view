@@ -1,6 +1,6 @@
 ﻿# VBA_view
 作業内容  
-sub　lime:ctr+art+o　プレビュー
+sub lime:ctr+art+o　プレビュー
 
 ***8/9***  
 ---終了項目---  
